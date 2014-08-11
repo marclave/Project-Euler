@@ -23,7 +23,7 @@ def largestSum():
 if __name__ == "__main__":
 
 	print "================================="
-	print "            Problem9             "
+	print "            Problem8             "
 	print "    Developed by Marc Laventure  "
 	print "================================="
 	print ""
