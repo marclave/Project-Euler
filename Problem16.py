@@ -1,7 +1,7 @@
 """
 Problem 16
 https://projecteuler.net/problem=16
-Power digit sum
+Power digit sum answer is 1366
 """
 
 def powerSum(power):
